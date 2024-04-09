@@ -15,7 +15,7 @@ function App() {
           target="_blank"
           rel="noopener noreferrer"
         >
-          Aplendele al react por favor muchas gracias porfavor
+          Aplendele al react ostias
         </a>
       </header>
     </div>
